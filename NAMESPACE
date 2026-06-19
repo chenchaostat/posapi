@@ -1,5 +1,4 @@
 export(posfunc)
-export(pospack)
 importFrom(httr,POST)
 importFrom(httr,content)
 importFrom(httr,content_type_json)
