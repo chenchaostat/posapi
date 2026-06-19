@@ -2,7 +2,7 @@ Package: PoSAPI
 Title: Probability of Success Calculator
 Version: 0.1.0
 Authors@R: person("Chao Chen", email = "chenchaostat@163.com", role = c("aut", "cre"))
-Description: Calculate probability of success in oncology clinical trials via secure cloud API.
+Description: Calculate probability of success in oncology clinical trials.
 License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
