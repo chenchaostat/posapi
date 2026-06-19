@@ -1,6 +1,6 @@
 #' @title Probability of Success
 #' @description
-#' Calculating probability of success using formula method in oncology clinical trials.
+#' Calculating probability of success in oncology clinical trials.
 #'
 #' @param hr_true True hazard ratio which you assumed.
 #' @param hr_threshold Hazard ratio threshold. It will be used to calculate Pr(hr < hr_threshold).
